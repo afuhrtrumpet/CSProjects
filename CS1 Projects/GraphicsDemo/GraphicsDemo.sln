@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsDemo", "GraphicsDemo\GraphicsDemo.csproj", "{6125058D-A3DE-4DC3-B16E-7E06D04923BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsDemo2", "GraphicsDemo2\GraphicsDemo2.csproj", "{E59822D3-7534-40C6-89E2-43CF0A4DB07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6125058D-A3DE-4DC3-B16E-7E06D04923BD}.Debug|x86.ActiveCfg = Debug|x86
+		{6125058D-A3DE-4DC3-B16E-7E06D04923BD}.Debug|x86.Build.0 = Debug|x86
+		{6125058D-A3DE-4DC3-B16E-7E06D04923BD}.Release|x86.ActiveCfg = Release|x86
+		{6125058D-A3DE-4DC3-B16E-7E06D04923BD}.Release|x86.Build.0 = Release|x86
+		{E59822D3-7534-40C6-89E2-43CF0A4DB07E}.Debug|x86.ActiveCfg = Debug|x86
+		{E59822D3-7534-40C6-89E2-43CF0A4DB07E}.Debug|x86.Build.0 = Debug|x86
+		{E59822D3-7534-40C6-89E2-43CF0A4DB07E}.Release|x86.ActiveCfg = Release|x86
+		{E59822D3-7534-40C6-89E2-43CF0A4DB07E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

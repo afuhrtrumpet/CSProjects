@@ -9,7 +9,7 @@ namespace PostfixCalculator
         private ListADT myList;
         /// <summary>
         /// Sup dawg, we heard you like lists that are abstract in your stack so we put a ListADT in your stack so that
-        /// abstract lists can help your stackalackalack.
+        /// abstract lists can help your stack.
         /// </summary>
         public StackADT()
         {

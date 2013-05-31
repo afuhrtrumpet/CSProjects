@@ -43,6 +43,7 @@ namespace PostfixCalculator
                     operands.push(result); //Adds result back into stack of operands.
                 }
             }
+            result = (double)operands.pop();
             if (!operands.isEmpty()) throw new ArithmeticException(); //No operands should be left at the end.
             return result;
         }
